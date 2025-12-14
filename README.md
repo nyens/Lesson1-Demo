@@ -11,3 +11,8 @@ check working directory pwd
 <br>
 clear the window clear command
 <br>
+git config --global user.name"NAME"
+<br>
+git config --global user.email"EMAIL"
+<br>
+git config --list
